@@ -1,4 +1,4 @@
-#React Counter with LocalStorage
+# React Counter with LocalStorage
 
 A beginner React counter application that allows users to increase, decrease, and reset a counter. The application also uses browser localStorage to save and retrieve the counter value.
 
