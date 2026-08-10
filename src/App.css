@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  border-radius: 5px;
+  background-color: rgba(56, 56, 187, 0.834);
+  align-items: center;
+  padding: 20px 0px;
+}
+
+h1 {
+  color: wheat;
+}
+
+
+.buttons{
+  display: flex;
+  gap: 10px;
+  margin: 10px 0px;
+}
+
+button{
+  padding: 5px 6px;
+  border-radius: 15px;
+}
+
+button:hover{
+  box-shadow: 4px 4px 4px rgb(0, 38, 255);
+  background-color: black;
+  color: whitesmoke;
+}
